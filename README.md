@@ -12,5 +12,10 @@ Når vi jobber med KI er det ofte fordi vi ønsker å løse et problem basert p�
 - Skriv kode for å laste inn dataene fra datasettet.
 - Skriv kode for å inspisere dataene (liste ut kolonner, rader med mer).
 
+Legge til et datasett i Ksggle: [https://youtu.be/YHJ6t958gjw](https://youtu.be/YHJ6t958gjw)
+
+Åpne og skrive excelfiler i Kaggle: [https://youtu.be/RoA367CZcU8](https://youtu.be/RoA367CZcU8)
+
+
 ## Oppgave 2
 ... kommer
