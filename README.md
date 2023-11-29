@@ -18,4 +18,10 @@ Legge til et datasett i Ksggle: [https://youtu.be/YHJ6t958gjw](https://youtu.be/
 
 
 ## Oppgave 2
-... kommer
+Vi kan bruke OpenCV til å gjøre objektgjenkjenning i blant annet bilder og video. I mappen kode/ ligger det en fil 'Pythonkurs - OpenCV - Bildebehandling' som viser hvordan man går frem for å kjenne igjen objekter i et stillbilde. I samme mappe ligger det også en fil 'Webcam_capture' som viser hvordan man kan bruke OpenCV til å aksessere og strømme fra det innebygde kameraet på maskinen.
+
+- Sett opp et kjøremiljø lokalt på maskinen (virtual environment eller conda environment).
+- Aktiver og installer nødvendige biblioteker i dette kjøremiljøet.
+- Skriv kode som kan kjenne igjen objekter basert på deet innebygde kameraet på maskinen.
+
+PS. Denne oppgaven løses best på lokal maskin da man trenger tilgang til det innebygde kameraet på maskinen.
