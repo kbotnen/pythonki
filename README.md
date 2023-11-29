@@ -12,7 +12,7 @@ Når vi jobber med KI er det ofte fordi vi ønsker å løse et problem basert p�
 - Skriv kode for å laste inn dataene fra datasettet.
 - Skriv kode for å inspisere dataene (liste ut kolonner, rader med mer).
 
-Legge til et datasett i Ksggle: [https://youtu.be/YHJ6t958gjw](https://youtu.be/YHJ6t958gjw)
+Legge til et datasett i Kaggle: [https://youtu.be/YHJ6t958gjw](https://youtu.be/YHJ6t958gjw)
 
 Åpne og skrive excelfiler i Kaggle: [https://youtu.be/RoA367CZcU8](https://youtu.be/RoA367CZcU8)
 
@@ -25,3 +25,5 @@ Vi kan bruke OpenCV til å gjøre objektgjenkjenning i blant annet bilder og vid
 - Skriv kode som kan kjenne igjen objekter basert på deet innebygde kameraet på maskinen.
 
 PS. Denne oppgaven løses best på lokal maskin da man trenger tilgang til det innebygde kameraet på maskinen.
+
+Opprette et virtuelt kjøremiljø lokalt på maskinen i Visual Studio Code: [https://youtu.be/Sk4vXDUb2UI](https://youtu.be/Sk4vXDUb2UI)
